@@ -5,6 +5,4 @@
 </p>
 
 
-<p style="font-size:14px; font-weight:bold;">
-  Glad to see you here ❤️
-</p>
+<h6><b>Glad to see you here ❤️</b></h6>
