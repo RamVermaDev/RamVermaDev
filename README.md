@@ -6,3 +6,13 @@
 
 
 <h6><b>Glad to see you here ❤️</b></h6>
+
+<br/>
+<p>
+  <sub>💻 I'm a Full Stack Developer</sub><br>
+  <sub>📱 Exploring Flutter</sub><br>
+  <sub>
+    🖇 Connect with me on 
+    <a href="https://www.linkedin.com/in/ramendra-verma-dev/">LinkedIn</a>
+  </sub>
+</p>
